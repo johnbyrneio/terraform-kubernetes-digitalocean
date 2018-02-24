@@ -1,0 +1,3 @@
+do_token = "abcd123"
+k8s_bootstrap_token = "abcd123"
+local_user = "someuser"
